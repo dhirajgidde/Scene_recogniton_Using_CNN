@@ -5,9 +5,9 @@ Technology: Python, Tesnsorflow 1.8, Keras Api, Django framework and other deep 
 
 
 Scene Categeries:
-auditorium
-bathroom
-bedroom
-farm
-forest
+auditorium,
+bathroom,
+bedroom,
+farm,
+forest,
 Swimming pool
